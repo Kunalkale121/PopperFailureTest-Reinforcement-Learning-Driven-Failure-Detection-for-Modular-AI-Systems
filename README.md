@@ -146,10 +146,10 @@ This encourages aggressive bug-finding strategies.
 
 - Random testing wastes tests on low-risk modules  
 - RL converges to high-value testing patterns
-- RL consistently beats random across all seeds. As shown in the graph below.
 - <img width="2780" height="1184" alt="image" src="https://github.com/user-attachments/assets/4e191c98-af91-4121-b5d7-4ced40538a18" />
  
 - High prioritization score shows strong risk-awareness
+- RL consistently beats random across all seeds. As shown in the graph below.
 - <img width="1696" height="1094" alt="image" src="https://github.com/user-attachments/assets/c692dd7e-7cf1-45e7-bdfb-3d3aabfd137f" />
 
 
