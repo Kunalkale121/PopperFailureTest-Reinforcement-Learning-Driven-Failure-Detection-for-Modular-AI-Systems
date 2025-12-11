@@ -141,10 +141,12 @@ This encourages aggressive bug-finding strategies.
 
 ### **Observations**
 - RL quickly identifies the riskiest modules
+- Coverage grows rapidly then stabilizes, showing good exploration.
 - <img width="2004" height="1100" alt="image" src="https://github.com/user-attachments/assets/da6956ed-91f6-4b7e-82e5-6e78ce279854" />
 
 - Random testing wastes tests on low-risk modules  
 - RL converges to high-value testing patterns
+- RL consistently beats random across all seeds. As shown in the graph below.
 - <img width="2780" height="1184" alt="image" src="https://github.com/user-attachments/assets/4e191c98-af91-4121-b5d7-4ced40538a18" />
  
 - High prioritization score shows strong risk-awareness
