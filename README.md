@@ -1,4 +1,4 @@
-# 🚀 PopperTest: Reinforcement Learning–Driven Failure Detection for Modular AI Systems
+# PopperTest: Reinforcement Learning–Driven Failure Detection for Modular AI Systems
 *A Multi-Agent UCB-Based Validation Framework Extending Humanitarians.AI Popper Architecture*
 
 ---
@@ -13,7 +13,7 @@ Each component of the SUT contains a hidden failure probability, and the RL agen
 
 ---
 
-## ✅ Key Features
+## Key Features
 
 - Multi-agent architecture  
 - UCB (Upper Confidence Bound) reinforcement learning  
@@ -25,7 +25,7 @@ Each component of the SUT contains a hidden failure probability, and the RL agen
 
 ---
 
-# 🧠 System Architecture Diagram
+#  System Architecture Diagram
 
                  ┌──────────────────────────────────┐
                  │         RL Controller (UCB)       │
@@ -122,7 +122,7 @@ This encourages aggressive bug-finding strategies.
 
 ---
 
-## 🧪 Experimental Design & Results
+## Experimental Design & Results
 
 ### **Experiment Setup**
 - Modules: 10–200  
@@ -173,7 +173,7 @@ Random: 276.47 ± 43.86
 
 ---
 
-## 🧵 Discussion of Challenges & Solutions
+## Discussion of Challenges & Solutions
 
 ### **1. Sparse Rewards**
 Failures are rare.  
@@ -193,7 +193,7 @@ Coordinating 4 agents can create ambiguity.
 
 ---
 
-## 🛡 Ethical Considerations
+## Ethical Considerations
 - Testing must not overwhelm production systems  
 - RL should avoid overfitting to early failures  
 - Decision-making must stay explainable & auditable  
@@ -202,7 +202,7 @@ Coordinating 4 agents can create ambiguity.
 
 ---
 
-## 🔮 Future Improvements & Research Directions
+## Future Improvements & Research Directions
 ### **1. Integrate Real APIs or ML Models**
 Move beyond simulated components.
 
@@ -229,7 +229,11 @@ Provide “why this module was tested”.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 This project is inspired by the **Humanitarians.AI Popper Framework** and was developed for the **Reinforcement Learning for Agentic AI Systems** final assignment.
+
+
+### Video demonstration of this project
+https://drive.google.com/file/d/1SgoAA8i0wRuhIfXXe17VDsSn_moWKbOQ/view?usp=sharing
 
 
